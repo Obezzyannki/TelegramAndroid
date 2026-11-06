@@ -59,3 +59,4 @@ You can download binaries from Releases or from my [Telegram channel Forkgram](h
 
 ## Building instructions for Debian 13:
 [BUILDING.md](BUILDING.md)
+[Release] ai tagger
